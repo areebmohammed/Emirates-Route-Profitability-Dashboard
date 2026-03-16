@@ -39,4 +39,4 @@ open index.html
 
 ---
 
-Built for CSE 442: Data Visualization — University of Washington, 2024
+Built for CSE 442: Data Visualization — University of Washington, 2026
