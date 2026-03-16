@@ -2,9 +2,7 @@
 
 An interactive data visualization dashboard exploring route-level profitability for Emirates Airlines. Analyzes 7,974 flight records across 30 destinations during 2024 to answer: *How do route distance, seasonal demand, and aircraft deployment interact to determine which Emirates routes from Dubai are profitable, and what does the underlying cost structure reveal about why?*
 
-## Live Demo
 
-[areebmohammed.github.io/Emirates-Route-Profitability-Dashboard](https://areebmohammed.github.io/Emirates-Route-Profitability-Dashboard/)
 
 ## Key Findings
 
