@@ -4,7 +4,7 @@ An interactive data visualization dashboard exploring route-level profitability 
 
 ## Live Demo
 
-[areebmohammed.github.io/emirates-dashboard](https://areebmohammed.github.io/emirates-dashboard)
+[areebmohammed.github.io/Emirates-Route-Profitability-Dashboard](https://areebmohammed.github.io/Emirates-Route-Profitability-Dashboard/)
 
 ## Key Findings
 
